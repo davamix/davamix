@@ -13,14 +13,14 @@
 
 ### Toolbox:
 
-<img src="https://github.com/davamix/davamix/raw/master/logos/c_sharp_logo.png" alt="C#" width="26" > <img src="https://github.com/davamix/davamix/raw/master/logos/python_logo.png" alt="Python" width="26" > 
-<img src="https://github.com/davamix/davamix/raw/master/logos/flask_logo.png" alt="Flask" width="26" />
-<img src="https://github.com/davamix/davamix/raw/master/logos/pytorch_logo.png" alt="Pytorch" width="26" />
-<img src="https://github.com/davamix/davamix/raw/master/logos/jupyter_logo.png" alt="Jupyter" width="26" />
-<img src="https://github.com/davamix/davamix/raw/master/logos/github_logo.png" alt="GitHub" width="26" />
-<img src="https://github.com/davamix/davamix/raw/master/logos/docker_logo.png" alt="Docker" width="26" />
-<img src="https://github.com/davamix/davamix/raw/master/logos/linux_logo.png" alt="Linux" width="26" />
-<img src="https://github.com/davamix/davamix/raw/master/logos/windows_logo.png" alt="Windows" width="26" />
+<img src="https://github.com/davamix/davamix/raw/master/logos/c_sharp_logo.png" alt="C#" title="C#" width="26" > <img src="https://github.com/davamix/davamix/raw/master/logos/python_logo.png" alt="Python" title="Python" width="26" > 
+<img src="https://github.com/davamix/davamix/raw/master/logos/flask_logo.png" alt="Flask" title="Flask web applicacion framework" width="26" />
+<img src="https://github.com/davamix/davamix/raw/master/logos/pytorch_logo.png" alt="Pytorch" title="Pytorch - Machine learning framework" width="26" />
+<img src="https://github.com/davamix/davamix/raw/master/logos/jupyter_logo.png" alt="Jupyter" title="Jupyter Notebook" width="26" />
+<img src="https://github.com/davamix/davamix/raw/master/logos/github_logo.png" alt="GitHub" title="GitHub" width="26" />
+<img src="https://github.com/davamix/davamix/raw/master/logos/docker_logo.png" alt="Docker" title="Docker" width="26" />
+<img src="https://github.com/davamix/davamix/raw/master/logos/linux_logo.png" alt="Linux" title="Linux" width="26" />
+<img src="https://github.com/davamix/davamix/raw/master/logos/windows_logo.png" alt="Windows" title="Windows" width="26" />
 
 ---
 
