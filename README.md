@@ -44,12 +44,6 @@ TODO 😁
 
 ---
 
-### ⚡ GitHub Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 ### ⚡ GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=davamix&count_private=true&show_icons=true" />
