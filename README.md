@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on Machine Learning projects
 
 
-### 🧰 Toolbox:
+### Toolbox:
 
 <img src="https://github.com/davamix/davamix/raw/master/logos/c_sharp_logo.png" alt="C#" width="26" > <img src="https://github.com/davamix/davamix/raw/master/logos/python_logo.png" alt="Python" width="26" > 
 <img src="https://github.com/davamix/davamix/raw/master/logos/flask_logo.png" alt="Flask" width="26" />
@@ -21,9 +21,6 @@
 <img src="https://github.com/davamix/davamix/raw/master/logos/docker_logo.png" alt="Docker" width="26" />
 <img src="https://github.com/davamix/davamix/raw/master/logos/linux_logo.png" alt="Linux" width="26" />
 <img src="https://github.com/davamix/davamix/raw/master/logos/windows_logo.png" alt="Windows" width="26" />
-
-<br />
-<br />
 
 ---
 
@@ -35,7 +32,7 @@
 - [Configure a self-signed certificate in Ubuntu to allow HTTPS access with an ASP.NET Core 2.1 application](https://davamix.net/posts/asp-net-core-2-with-https.html)
 - [Install .NET Framework 3.5 on Windows 10](https://davamix.net/posts/install-net-3-5-on-Windows-10.html)
 
-<br />
+<br/>
 
 ---
 
