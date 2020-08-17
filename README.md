@@ -14,19 +14,12 @@
 ### 🧰 Toolbox:
 
 <img src="https://github.com/davamix/davamix/raw/master/logos/c_sharp_logo.png" alt="C#" width="26" />
-
 <img src="https://github.com/davamix/davamix/raw/master/logos/python_logo.png" alt="Python" width="26" />
-
 <img src="https://github.com/davamix/davamix/raw/master/logos/pytorch_logo.png" alt="Pytorch" width="26" />
-
 <img src="https://github.com/davamix/davamix/raw/master/logos/jupyter_logo.png" alt="Jupyter" width="26" />
-
 <img src="https://github.com/davamix/davamix/raw/master/logos/github_logo.png" alt="GitHub" width="26" />
-
 <img src="https://github.com/davamix/davamix/raw/master/logos/docker_logo.png" alt="Docker" width="26" />
-
 <img src="https://github.com/davamix/davamix/raw/master/logos/linux_logo.png" alt="Linux" width="26" />
-
 <img src="https://github.com/davamix/davamix/raw/master/logos/windows_logo.png" alt="Windows" width="26" />
 
 <br />
