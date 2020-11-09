@@ -14,6 +14,9 @@
 ### Toolbox:
 
 <img src="https://github.com/davamix/davamix/raw/master/logos/c_sharp_logo.png" alt="C#" title="C#" width="26" > <img src="https://github.com/davamix/davamix/raw/master/logos/python_logo.png" alt="Python" title="Python" width="26" > 
+<img src="https://github.com/davamix/davamix/raw/master/logos/html_logo.png" alt="HTML" title="HTML" width="32" > 
+<img src="https://github.com/davamix/davamix/raw/master/logos/css_logo.png" alt="CSS" title="CSS" width="32" > 
+<img src="https://github.com/davamix/davamix/raw/master/logos/js_logo.png" alt="Javascript" title="Javascript" width="32" > 
 <img src="https://github.com/davamix/davamix/raw/master/logos/flask_logo.png" alt="Flask" title="Flask web applicacion framework" width="26" />
 <img src="https://github.com/davamix/davamix/raw/master/logos/pytorch_logo.png" alt="Pytorch" title="Pytorch - Machine learning framework" width="26" />
 <img src="https://github.com/davamix/davamix/raw/master/logos/jupyter_logo.png" alt="Jupyter" title="Jupyter Notebook" width="26" />
