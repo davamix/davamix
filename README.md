@@ -1,7 +1,6 @@
 ### Hi there, I'm Daniel - aka [Davamix](https://davamix.net) 👋
 
 [![Website](https://img.shields.io/website?label=davamix.net&style=for-the-badge&url=https%3A%2F%2Fdavamix.net)](https://davamix.net)
-[![Twitter Follow](https://img.shields.io/static/v1?label=follow%20me&message=@davamix&color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/davamix)
 [![Linkedin](https://img.shields.io/static/v1?label=Contact&message=Daniel&color=blue&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/danielvalcarce)
 
 
