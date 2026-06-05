@@ -40,7 +40,7 @@
 
 ### ⭐ Projects
 
-TODO 😁
+[Acopio: A personal dev-tool catalog your AI assistant can search](https://acopio.dev)
 <br />
 <br />
 
